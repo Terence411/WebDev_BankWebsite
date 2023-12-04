@@ -1,3 +1,4 @@
-# Hackathon-WebDev
-This project is just an intro into MotionUI concepts and implementation is done using a banking interface.
+# Hackathon - Introduction to Web Development
+
+Embarked on a foundational journey into web development, creating an engaging banking interface with vanilla HTML, CSS, and JavaScript. This comprehensive interface includes a user-friendly login page and provides customers with a seamless experience to check account statuses, balances, and manage cards. Implemented MotionUI concepts to enhance the website's dynamic visual appeal while also incorporating a streamlined ticket-raising interface for issue resolution.
 
